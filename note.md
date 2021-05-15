@@ -38,3 +38,6 @@ Flow
 ![06](./img/06.png)
 Process
 ![07](./img/07.png)
+
+Cả 2 cùng xài chung package nên chúng nên tìm cách shared package với nhau
+![08](./img/08.png)
