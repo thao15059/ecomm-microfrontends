@@ -41,3 +41,4 @@ Process
 
 Cả 2 cùng xài chung package nên chúng nên tìm cách shared package với nhau
 ![08](./img/08.png)
+Vẫn có lỗi vì khi load modules khi mà load module chưa xong mà ứng dụng nào cần xài module đó thì sẽ xảy ra lỗi để khắc phục tình trạng này ta sử dụng import với async
